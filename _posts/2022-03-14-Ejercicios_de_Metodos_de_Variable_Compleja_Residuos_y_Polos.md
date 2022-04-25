@@ -1,17 +1,8 @@
 ---
 layout: post
 title:  "Ejercicios de Métodos de Variable Compleja. Residuos y polos"
-categories: [ Métodos Matemáticos, Avanzado ]
-image: assets/images/banners/Residuos_y_polos.png
-author: marco
----
-
----
-layout: post
-title:  "Ejercicios de Métodos de Variable Compleja. Residuos y polos"
 date:   2022-03-14
-categories: jekyll update
-author: marco
+author: Marco Antonio Carmona Galván
 ---
 
 - Clasificar las singularidades de las siguientes funciones y calcular los residuos cuando sea posible.

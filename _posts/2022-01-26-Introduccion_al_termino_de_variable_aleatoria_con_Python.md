@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Introducción al término de variable aleatoria con Python"
-categories: [ Python, Intermedio ]
-image: assets/images/banners/Variable_aleatoria.png
-author: marco
+date:   2022-01-26
+author: Marco Antonio Carmona Galván
 ---
 
 En este post se abordará el tema de variable aleatoria desde una perspectiva problemática y aplicada dentro de la probabilidad con la ayuda de Python. 

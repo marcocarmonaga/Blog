@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Ejercicios de Métodos de Variable Compleja. Series"
-categories: [ Métodos Matemáticos, Avanzado ]
-image: assets/images/banners/Series.png
-author: marco
+date:   2022-03-12
+author: Marco Antonio Carmona Galván
 ---
 
 - Expandir $$\frac{z-1}{3-z}$$ en serie de Taylor alrededor de $$z_0=1$$ y dar el radio de convergencia.

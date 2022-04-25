@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "La comodidad detrás de la ignorancia"
-categories: [ Divulgación, Principiante ]
-image: assets/images/banners/Reality.png
-author: marco
+date:   2022-01-26
+author: Marco Antonio Carmona Galván
 ---
 
 > **“La mayoría de la gente no solo se siente cómoda con su ignorancia, sino que es hostil con cualquiera que lo señale”**

@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Ejercicios de Métodos de Variable Compleja. Integrales"
-categories: [ Métodos Matemáticos, Avanzado ]
-image: assets/images/banners/Integrales.png
-author: marco
+date:   2022-03-12
+author: Marco Antonio Carmona Galván
 ---
 
 - Calcular las siguientes integrales siendo $$\mathcal{C}$$ el segmento de recta que va desde $$-1-i$$ a $$1+i$$:

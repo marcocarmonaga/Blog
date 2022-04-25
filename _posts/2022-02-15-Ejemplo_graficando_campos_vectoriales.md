@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Graficando campos vectoriales con ayuda de Numpy y Matplotlib, en menos de 10 líneas de código."
-categories: [ Python, Intermedio ]
-image: assets/images/banners/Vector_field.png
-author: marco
+date:   2022-02-15
+author: Marco Antonio Carmona Galván
 ---
 
 Ilustrar campos vectoriales a la hora de hacer un análisis visual de cualquier tipo de función, siempre es de gran ayuda para poder conocer su comportamiento y deducir una que otra propiedad de esta misma. Sin embargo, no siempre es trivial visualizar y/o bosquejarlo; es por ello que muchas ocasiones se debe recurrir a herramientas computacionales para su graficación. 

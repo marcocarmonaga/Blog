@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Qué porcentaje podemos ver del universo, de acuerdo con el espectro electromagnético"
-categories: [ Divulgación, Principiante ]
-image: assets/images/banners/Espectro.png
-author: marco
+date:   2022-01-20
+author: Marco Antonio Carmona Galván
 ---
 
 Si bien es cierto que en épocas de Maxwell, las únicas radiaciones electromagnéticas que se conocían era la luz y las radiaciones infrarrojas y ultravioleta; la verdad es que hoy en día son 7 diferentes. Y aún cuando es muy probable que te hayas cuestionado sobre el origen de su descubrimiento, es igual de probable que no te hayas preguntado cómo las percibimos.

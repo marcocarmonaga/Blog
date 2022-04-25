@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "¿Qué es LaTeX?"
-categories: [ Divulgación, Principiante ]
-image: assets/images/banners/Latex.png
-author: gabriela
+date:   2022-01-19
+author: Gabriela Méndez Muñoz
 ---
 
 Empezaremos haciendonos otra pregunta:

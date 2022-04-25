@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Clasificando plantas por el largo y ancho de sus pétalos: $$k$$-nearest neighbors"
-categories: [ Python, Avanzando ]
-image: assets/images/banners/k_nearest_neighbors.png
-author: marco
+title:  "Clasificando plantas por el largo y ancho de sus pétalos: k-nearest neighbors"
+date:   2022-02-09
+author: Marco Antonio Carmona Galván
 ---
 
 En un [artículo anterior](http://unrealblog.xyz/Tu_primer_modelo_de_regresion_lineal/), describimos el proceso de un modelo de regresión lineal en el que corroboramos la correlación existente entre el largo y ancho de los pétalos de una planta de nombre "iris". 
