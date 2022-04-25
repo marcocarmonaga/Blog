@@ -2,7 +2,7 @@
 layout: post
 title:  "¿Qué es LaTeX?"
 date:   2022-01-19
-author: Gabriela Méndez Muñoz
+author: Gabriela Méndez
 ---
 
 Empezaremos haciendonos otra pregunta:

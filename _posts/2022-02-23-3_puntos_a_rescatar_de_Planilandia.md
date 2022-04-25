@@ -2,7 +2,7 @@
 layout: post
 title:  "3 puntos a rescatar de Planilandia. Un libro de muchas dimensiones."
 date:   2022-02-23
-author: Marco Antonio Carmona Galván
+author: Marco A. Carmona
 ---
 
 Desde mi perspectiva, hablar de Planilandia no solo implica tocar temas literarios como la geometría del lugar o la imaginación de la vida en esta. Involucra ir más allá de esto y cuestionarse la existencia y representación plurinominal de nuestro ser en el universo, descifrar misterios mentales y poner a prueba la veracidad de nuestra ética social.

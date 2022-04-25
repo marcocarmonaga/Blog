@@ -2,7 +2,7 @@
 layout: post
 title:  "Aprendiendo a graficar una función de densidad acumulada para una región dada, con Python"
 date:   2022-02-11
-author: Marco Antonio Carmona Galván
+author: Marco A. Carmona
 ---
 
 En este breve post aprenderás rápidamente cómo graficar la función de distribución acumulada de una distribución normal estandarizada, aunque es importante decir que el siguiente proceso funciona perfectamente para otro tipo de distribuciones como la distribución Z inversa, distribución "t" de Student, Ji-cuadrada, entre otras. 

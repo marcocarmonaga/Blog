@@ -2,7 +2,7 @@
 layout: post
 title:  "Eratosthenes y la Circunferencia de la Tierra"
 date:   2022-01-19
-author: Marco Antonio Carmona Galván
+author: Marco A. Carmona
 ---
 
 Hace más que 2 mil años atrás, Eratosthenes comparó la posición de los rayos del Sol en dos diferentes lugares con el propósito de calcular el tamaño esférico de la Tierra con una gran precisión razonable

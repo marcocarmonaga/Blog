@@ -2,7 +2,7 @@
 layout: post
 title:  "Cálculo de probabilidades utilizando Pandas."
 date:   2022-02-23
-author: Marco Antonio Carmona Galván
+author: Marco A. Carmona
 ---
 
 En un post anterior llegué a hacer una rápida introducción al término de variable aleatoria con Python, es por esto que en esta ocasión te explicaré una manera similar de calcular probabilidades, pero con ayuda de una librería muy popular como lo es [**Pandas**](https://pandas.pydata.org/).  

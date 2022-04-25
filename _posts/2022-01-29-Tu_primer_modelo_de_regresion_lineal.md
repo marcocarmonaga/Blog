@@ -2,7 +2,7 @@
 layout: post
 title:  "Tu primer modelo de machine learning: Regresión Lineal aplicado a un conjunto de datos sobre plantas iris"
 date:   2022-01-29
-author: Marco Antonio Carmona Galván
+author: Marco A. Carmona
 ---
 
 La idea de fabricar máquinas inteligentes, sensibles y autoconscientes no es algo que haya surgido de repente en los últimos años. De hecho, muchos relatos de la **mitología griega** hablan de máquinas e inventos inteligentes que tienen conciencia de sí mismos e inteligencia propia. Los orígenes y la evolución del ordenador han sido realmente revolucionarios a lo largo de varios siglos, desde el ábaco básico y su descendiente la regla de cálculo en el siglo XVII hasta el primer ordenador de propósito general diseñado por [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage) en el siglo XIX. 

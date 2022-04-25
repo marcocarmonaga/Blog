@@ -2,7 +2,7 @@
 layout: post
 title:  "La esperanza matemática y porqué no comprar un boleto de lotería"
 date:   2022-01-20
-author: Marco Antonio Carmona Galván
+author: Marco A. Carmona
 ---
 
 Para dar una breve introducción a la definición de lo que es la [esperanza matemática](https://es.wikipedia.org/wiki/Esperanza_(matem%C3%A1tica)) o también llamada valor esperado, me gustaría comenzar con un ejemplo básico con el afán de dar a entender su uso e importancia de ésta.

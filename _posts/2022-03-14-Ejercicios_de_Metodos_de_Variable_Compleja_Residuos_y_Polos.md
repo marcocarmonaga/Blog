@@ -2,7 +2,7 @@
 layout: post
 title:  "Ejercicios de Métodos de Variable Compleja. Residuos y polos"
 date:   2022-03-14
-author: Marco Antonio Carmona Galván
+author: Marco A. Carmona
 ---
 
 - Clasificar las singularidades de las siguientes funciones y calcular los residuos cuando sea posible.

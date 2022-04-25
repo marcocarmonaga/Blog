@@ -2,7 +2,7 @@
 layout: post
 title:  "Supresión de crecimiento bacterial en películas orgánicas almacenadas."
 date:   2022-03-27
-author: Marco Antonio Carmona Galván
+author: Marco A. Carmona
 ---
 
 La vida de anaquel de películas orgánicas almacenadas es el tiempo que una muestra previamente almacenada está en condiciones de ser usada en el laboratorio.

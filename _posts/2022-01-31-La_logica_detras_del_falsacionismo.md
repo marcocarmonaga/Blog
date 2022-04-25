@@ -2,7 +2,7 @@
 layout: post
 title:  "La lógica detrás del falsacionismo, ¿de qué manera justifica la ciencia sus leyes?"
 date:   2022-01-31
-author: Marco Antonio Carmona Galván
+author: Marco A. Carmona
 ---
 
 > Si no está lógicamente justificado pasar de enunciados particulares a enunciados universales, ¿por qué confiar en la **inducción**?

@@ -2,7 +2,7 @@
 layout: post
 title:  "¿Alguna vez te preguntaste, qué pasa cuando tu pupila se dilata?"
 date:   2022-01-23
-author: Gabriela Méndez Muñoz
+author: Gabriela Méndez
 ---
 
 Hoy, mientras estaba en clase de optica, surgió una pregunta muy interesante, ¿la cantidad de luz captada por el ojo cambia conforme la pupila cambia de tamaño?. Si es así, ¿Cuánto puede cambiar la luz captada? 
