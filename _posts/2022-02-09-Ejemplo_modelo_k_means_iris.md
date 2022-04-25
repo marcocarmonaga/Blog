@@ -319,7 +319,7 @@ ax.plot(scores_df.k,scores_df.accuracy)
 ax.set_xticks(range(1,21))
 ```
     
-![png](/assets/images/posts/output_21_1.png)
+![png](/Blog/assets/images/posts/output_21_1.png)
     
 
 
@@ -358,7 +358,7 @@ plt.ylabel('Ancho de pétalos (cm)')
 
 
     
-![png](/assets/images/posts/output_25_1.png)
+![png](/Blog/assets/images/posts/output_25_1.png)
 
 ---
     

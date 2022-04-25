@@ -32,7 +32,7 @@ plt.show()
 
 
     
-![png](/assets/images/posts/output_3_0.png)
+![png](/Blog/assets/images/posts/output_3_0.png)
     
 
 

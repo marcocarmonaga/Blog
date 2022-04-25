@@ -27,7 +27,7 @@ El prisionero regresa a la cueva para informar a los demás prisioneros de sus h
 
 De manera más ilustrativa, lo anterior podría quedar visto de la siguiente manera:
 
-![Alegoría de la caverna - Diagrama](/assets/images/posts/Cave.jpg)
+![Alegoría de la caverna - Diagrama](/Blog/assets/images/posts/Cave.jpg)
 
 ---
 

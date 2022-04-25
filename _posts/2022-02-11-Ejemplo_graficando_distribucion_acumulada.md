@@ -91,7 +91,7 @@ plt.show()
 
 
     
-![png](/assets/images/posts/output_9_2.png)
+![png](/Blog/assets/images/posts/output_9_2.png)
     
 
 

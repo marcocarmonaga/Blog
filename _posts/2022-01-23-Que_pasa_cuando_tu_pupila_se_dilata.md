@@ -14,7 +14,7 @@ El **iris** tiene la característica de hacer la función de un diafragma de ape
 
 Con esta breve y rápida introducción sobre el ojo humano, podemos rescatar un dato muy importante que nos ayudará a responder a la pregunta planteada en un inicio: la pupila tiene un diámetro comprendido en un intervalo de $$2\text{ mm}$$ a $$8\text{ mm}$$, si imaginamos por un momento que nuestra pupila tiene una forma cuadrada como en la siguiente imagen:
 
-![Pupila - Diagrama](/assets/images/posts/Pupila.png)
+![Pupila - Diagrama](/Blog/assets/images/posts/Pupila.png)
 
 Siendo el cuadrado pequeño la pupila relajada y el cuadrado más grande la pupila dilatada, la medida de cada lado de cada cuadrado es de $$1\text{ mm}$$, por lo tanto, el área de la pupila de $$2\text{ mm}$$ (Ar) seria de $$4\text{ mm}^2$$ y el área del cuadrado de $$8\text{ mm}$$ (Ad) seria de $$64\text{ mm}^2$$, esto quiere decir que la cantidad de luz captada por el ojo va a cambiar dependiendo de la dilatación de la pupila, dividiendo el Área de la pupila dilatada entre el Área de la pupila relajada obtenermos $$\frac{A_d}{A_r}=16$$, por lo tanto la luz captada por una pupila dilatada sería 16 veces más que la captada por una pupila relajada.
 

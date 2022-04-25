@@ -270,7 +270,7 @@ plt.show()
 
 
     
-![png](/assets/images/posts/output_9_0.png)
+![png](/Blog/assets/images/posts/output_9_0.png)
     
 
 
@@ -363,7 +363,7 @@ plt.show()
 
 
     
-![png](/assets/images/posts/output_14_0.png)
+![png](/Blog/assets/images/posts/output_14_0.png)
     
 
 
