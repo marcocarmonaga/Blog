@@ -14,12 +14,12 @@ Supongamos que tenemos un **dado de 6 caras**; a partir de aquí sabemos, por si
 Aquí es donde surge el concepto de **valor esperado o esperanza matemática**, el cual, en nuestro caso particular está dado de la siguiente manera:
 
 $$
-\left(\frac{1}{6}\right)(\\$$1)+\cdots +\left(\frac{1}{6}\right)(\\$$6) = \\$$3.5
+\left(\frac{1}{6}\right)(\$1)+\cdots +\left(\frac{1}{6}\right)(\$6) = \$3.5
 $$
 
-***¿Pero qué significa este valor de \\$$3.5 y cuál es su importancia?*** Pues resulta que a simple vista puede parecer inútil a la hora de jugar, ya que es imposible obtener dicha ganancia en un tiro. Necesitaríamos que el dado tuviera una cara con valor igual a $$3 \frac{1}{2}$$.
+***¿Pero qué significa este valor de \$3.5 y cuál es su importancia?*** Pues resulta que a simple vista puede parecer inútil a la hora de jugar, ya que es imposible obtener dicha ganancia en un tiro. Necesitaríamos que el dado tuviera una cara con valor igual a $$3 \frac{1}{2}$$.
 
-Sin embargo, supongamos que **el costo por lanzar el dado es de \\$$3**; con este dato, el valor esperado empieza a tomar forma y significado a nuestro favor, ya que, aún cuando no nos garantiza ganancias tras una tirada, al menos nos da una idea del riesgo que vale o no tomar.
+Sin embargo, supongamos que **el costo por lanzar el dado es de \$3**; con este dato, el valor esperado empieza a tomar forma y significado a nuestro favor, ya que, aún cuando no nos garantiza ganancias tras una tirada, al menos nos da una idea del riesgo que vale o no tomar.
 
 ## ¿Ahora ves el porqué nunca comprar un boleto de lotería?
 
@@ -27,12 +27,12 @@ Sin embargo, supongamos que **el costo por lanzar el dado es de \\$$3**; con est
 
 En caso de no conocer el porqué, veamos rápidamente un caso especial del famoso [Sorteo Gordo de Navidad de la Lotería Nacional de México](http://www.lotenal.gob.mx/Comercial/gordo.html).
 
-En este sorteo de lotería, participan 80000 boletos, numerados del 0 al 80000; aquí deducimos que la probabilidad de cada boleto de ser el ganador es de $$\frac{1}{80000}$$; además, de acuerdo con la página oficial de la Lotería Nacional de México, cada boleto tiene un costo de \\$$120 y la ganancia es de \\$$2,550,000 en caso de salir ganador.
+En este sorteo de lotería, participan 80000 boletos, numerados del 0 al 80000; aquí deducimos que la probabilidad de cada boleto de ser el ganador es de $$\frac{1}{80000}$$; además, de acuerdo con la página oficial de la Lotería Nacional de México, cada boleto tiene un costo de \$120 y la ganancia es de \$2,550,000 en caso de salir ganador.
 
 Dicho lo anterior, nuestro valor esperado sería el siguiente:
 
 $$
-\left(\frac{1}{80000}\right)(\\$$2,550,000)=\\$$31.875
+\left(\frac{1}{80000}\right)(\$2,550,000)=\$31.875
 $$
 
-Lo que nos lleva a deducir que se tiene un indicador de pérdida en comparación con los \\$$120 que cuesta cada boleto.
+Lo que nos lleva a deducir que se tiene un indicador de pérdida en comparación con los \$120 que cuesta cada boleto.
