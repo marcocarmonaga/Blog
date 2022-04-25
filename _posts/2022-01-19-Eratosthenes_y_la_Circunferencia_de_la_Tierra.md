@@ -19,7 +19,7 @@ $$
 
 Pero antes de hacer los cálculos, aquí una pequeña representación geométrica de lo que hizo:
 
-![Eratosthenes y la Circunferencia de la Tierra - Diagrama](../assets/images/posts/Eratosthenes_diagrama.png)
+![Eratosthenes y la Circunferencia de la Tierra - Diagrama](assets/images/posts/Eratosthenes_diagrama.png)
 
 Así, sus cálculos quedarían dados de la siguiente manera:
 
