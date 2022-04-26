@@ -25,4 +25,4 @@ Detente un poco, observa con calma el dispositivo en el que estás leyendo esto 
 
 ---
 
-Si te interesa leer esta magnífica lectura de nombre Planilandía, [aquí](/assets/docs/Planilandia.pdf) te dejo el link para poder descargarla.
+Si te interesa leer esta magnífica lectura de nombre Planilandía, [aquí](/Blog/assets/docs/Planilandia.pdf) te dejo el link para poder descargarla.
