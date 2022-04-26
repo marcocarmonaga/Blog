@@ -362,4 +362,4 @@ plt.ylabel('Ancho de pétalos (cm)')
 
 ---
     
-El notebook de este post, los puedes encontrar [aquí](https://colab.research.google.com/drive/1ZMQyYEgWZIrcesuNaH9li5fOInWcryPE?usp=sharing).
+El notebook de este post, los puedes encontrar [aquí](https://gist.github.com/marcocarmonaga/9092bc952c02dadef3fa08f3b44caac0).

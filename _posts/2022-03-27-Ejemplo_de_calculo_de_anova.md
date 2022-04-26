@@ -529,4 +529,4 @@ Llevándonos a las siguientes preguntas:
 
 ---
 
-El notebook de este post, los puedes encontrar [aquí](https://colab.research.google.com/drive/13W3QjyGQt8QFGpk0JPbrH46wjIM7Z9MW?usp=sharing).
+El notebook de este post, los puedes encontrar [aquí](https://gist.github.com/marcocarmonaga/492b388267038335c42cbdc7e1545739).

@@ -364,4 +364,4 @@ $$
 
 ---
     
-El notebook de este post, los puedes encontrar [aquí](https://colab.research.google.com/drive/1MyEt02o7A6oR_gfSg5YLqtiMQHtsydQ9?usp=sharing).
+El notebook de este post, los puedes encontrar [aquí](https://gist.github.com/marcocarmonaga/723186033daabc6373f1beb718d6aab0).

@@ -808,4 +808,4 @@ Así podemos completar nuestra respuesta a el enunciado inicial, conociendo el v
 
 ---
     
-El notebook de este post, los puedes encontrar [aquí](https://colab.research.google.com/drive/1cuTKm5W3ngxRXCinQoVUAJpjjmDe1cuC?usp=sharing).
+El notebook de este post, los puedes encontrar [aquí](https://gist.github.com/marcocarmonaga/e2698b165d305053fcea740d8fb0b49d).

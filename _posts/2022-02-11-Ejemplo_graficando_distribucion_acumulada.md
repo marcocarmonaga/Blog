@@ -99,4 +99,4 @@ Y es así como rápidamente podemos graficar el área indicada en nuestro ejerci
 
 ---
     
-El notebook de este post, los puedes encontrar [aquí](https://colab.research.google.com/drive/1KsHC4T4i_PP1w3U15Vq-e-dSyd-pbNLB?usp=sharing).
+El notebook de este post, los puedes encontrar [aquí](https://gist.github.com/marcocarmonaga/3b3736193254e279718756f08e8ccc76).

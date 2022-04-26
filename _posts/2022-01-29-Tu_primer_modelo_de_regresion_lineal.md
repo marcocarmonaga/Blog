@@ -216,5 +216,5 @@ X = dataset.iloc[:,0:-4].values
 Y = dataset.iloc[:,1].values
 ```
 
-La solución a este ejercicio y la misma notebook de este post, los puedes encontrar [aquí](https://colab.research.google.com/drive/146N57CuAxck8ghPwcjWFWnJLTjwmb06-?usp=sharing).
+La solución a este ejercicio y la misma notebook de este post, los puedes encontrar [aquí](https://gist.github.com/marcocarmonaga/224126c2accb35bb3afcc11f7c08891f).
 

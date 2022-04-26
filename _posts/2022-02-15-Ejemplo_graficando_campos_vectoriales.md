@@ -145,4 +145,4 @@ plt.show()
 
 ---
     
-El notebook de este post, los puedes encontrar [aquí](https://colab.research.google.com/drive/1pJrv5PCsJzO1DuMCwW-JnduL03PWF5Yu?usp=sharing).
+El notebook de este post, los puedes encontrar [aquí](https://gist.github.com/marcocarmonaga/ee0084a659d57a4d33ba91f8d2721f1d).

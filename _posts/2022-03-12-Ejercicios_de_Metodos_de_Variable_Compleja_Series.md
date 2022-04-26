@@ -293,4 +293,4 @@ $$
 
 ---
     
-El notebook de este post, los puedes encontrar [aquí](https://colab.research.google.com/drive/1mbpPZdyRm-wRF3QefeuD0HRiGofllc9u?usp=sharing).
+El notebook de este post, los puedes encontrar [aquí](https://gist.github.com/marcocarmonaga/7777bd9d7c6bd89230d7d3e2065a7e6a).

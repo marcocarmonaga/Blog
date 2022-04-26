@@ -172,5 +172,5 @@ Con este marco, podemos hacer otras preguntas:
 d={(i,j,k):((i*j*k)/2>i+j+k) for i in range(1,7) for j in range(1,7) for k in range(1,7)}
 ```
 
-La solución a este ejercicio y la misma notebook de este post, los puedes encontrar [aquí](https://colab.research.google.com/drive/1pwbiPgQSHOKGmu2TPqhCA1q6n26FFCqI?usp=sharing).
+La solución a este ejercicio y la misma notebook de este post, los puedes encontrar [aquí](https://gist.github.com/marcocarmonaga/1279e9a5ccaba21c40c629ce68ec3f5e).
 
