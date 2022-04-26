@@ -18,7 +18,7 @@ permalink: /about/
 
 Soy físico y desarrollador en ciencia de datos apasionado por la ciencia, la tecnología, el crecimiento humano y la filosofía. Entre mis principales herramientas de trabajo se encuentra Bash, Python, Micropython y muchas, muchas matemáticas. He trabajo en proyectos que conllevan metodología de investigación profunda principalmente basada en el análisis y procesamiento numérico.
 
-- 👨‍🔬 Actualmente me encuentro desarrollando una investigación acerca de la estructura y propiedades electrónicas del MoB$_2$.
+- 👨‍🔬 Actualmente me encuentro desarrollando una investigación acerca de la estructura y propiedades electrónicas del MoB2.
 - 💻 En estos momentos me encuentro aprendiendo R.
 - 💬 Mis lenguajes meta a aprender son Julia y C/C++.
 - ✍️ Mi pasatiempo favorito se encuentra en la escritura.
