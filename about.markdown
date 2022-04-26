@@ -12,11 +12,11 @@ permalink: /about/
 - Escribiendo para [It's FOSS](https://itsfoss.com/), [It's FOSS en español](https://es.itsfoss.com/), y [Mi Blog Personal](https://marcocarmonaga.github.io/Blog/).
 - Conectando y compartiendo en [Twitter](https://twitter.com/marcocarmonaga).
 - Subiendo código en [GitHub Gist](https://gist.github.com/marcocarmonaga).
-- Y puedes conocer más sobre lo que yo hago en [LinkedIn](https://www.linkedin.com/in/marcocarmonaga/).
+- Y puedes conocer más sobre lo que yo hago en [LinkedIn](https://www.linkedin.com/in/marcocarmonaga/) o en [Mi Sitio Principal](https://sites.google.com/viep.com.mx/marcocarmonaga/).
 
 ### Un poco sobre mí
 
-Soy físico y desarrollador en ciencia de datos apasionado por la ciencia, la tecnología, el crecimiento humano y la filosofía. Entre mis principales herramientas de trabajo se encuentra Bash, Python, Micropython y muchas, muchas matemáticas. He trabajo en proyectos que conllevan metodología de investigación profunda principalmente basada en el análisis y procesamiento numérico.
+Soy físico y científico de datos apasionado por la ciencia, la tecnología, el crecimiento humano y la filosofía. Entre mis principales herramientas de trabajo se encuentra Bash, Python, Micropython y muchas, muchas matemáticas. He trabajo en proyectos que conllevan metodología de investigación profunda principalmente basada en el análisis y procesamiento numérico.
 
 - 👨‍🔬 Actualmente me encuentro desarrollando una investigación acerca de la estructura y propiedades electrónicas del MoB2.
 - 💻 En estos momentos me encuentro aprendiendo R.
