@@ -1,8 +1,3 @@
----
-layout: page
-title: Acerca
-permalink: /about/
----
 ## ¡Hola! 👋 Mi nombre es Marco
 
 ![](https://pbs.twimg.com/profile_banners/1347006160331747330/1650943639/1500x500)
