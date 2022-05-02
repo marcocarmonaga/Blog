@@ -256,7 +256,7 @@ $$
 \sum_{i=1}^{a}\sum_{j=1}^{n}(Y_{ij}-\overline{Y})^{2}=n\sum_{i=1}^{n}(\overline{Y}_{i*}-\overline{Y})^{2}+\sum_{i=1}^{a}\sum_{j=1}^{n}(Y_{ij}-\overline{Y}_{i*})^{2}
 $$
 
-Donde $$(\overline{Y}\_{i\*}-\overline{Y})^{2}$$ mide la diferencia entre los tratamientos y $$(Y\_{ij}-\overline{Y}\_{i\*})^{2}$$ mide dentro de un tratamiento la diferencia de las observaciones respecto a la media del tratamiento, esto último debido al error aleatorio.
+Donde $$(\overline{Y}_{i*}-\overline{Y})^{2}$$ mide la diferencia entre los tratamientos y $$(Y_{ij}-\overline{Y}_{i*})^{2}$$ mide dentro de un tratamiento la diferencia de las observaciones respecto a la media del tratamiento, esto último debido al error aleatorio.
 
 De esta manera, podemos escribir a $$SS_{T}$$ de la siguiente manera:
 
@@ -346,7 +346,7 @@ print(SS_E.round(3))
 
 
 $$
-\boxed{\therefore\ SS_{erro} = 0.927}
+\boxed{\therefore\ SS_{error} = 0.927}
 $$
 
 Con lo que podemos concluir que $$SS_{T}$$ tiene el siguiente valor.
