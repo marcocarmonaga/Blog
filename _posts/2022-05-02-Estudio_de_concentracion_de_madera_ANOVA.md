@@ -5,9 +5,9 @@ date:   2022-03-27
 author: Marco A. Carmona
 ---
 
-Un fabricante de papel se interesa en mejorar la resistencia a la tensión. Un grupo de investigación piensa que la resistencia a la tensión es una función de la concentración de pulpa de madera dura en la formulación y que el rango de interés práctico de las concentraciones de madera dura esta entre 5 y 20%.
+Un fabricante de papel se interesa en mejorar la resistencia a la tensión. Un grupo de investigación piensa que la resistencia a la tensión es una función de la concentración de pulpa de madera dura en la formulación y que el rango de interés práctico de las concentraciones de madera dura esta entre 5% y 20%.
 
-El equipo responsable del estudio decide investigar cuatro niveles de concentración de madera dura: 5, 10, 15 y 20%. Para ello se fabrican 6 especímenes de prueba para cada nivel de concentración, utilizando una planta piloto. Los 24 especímenes se someten a prueba en un probador de laboratorio, en un orden aleatorio. Los datos del experimento son:
+El equipo responsable del estudio decide investigar cuatro niveles de concentración de madera dura: 5%, 10%, 15% y 20%. Para ello se fabrican 6 especímenes de prueba para cada nivel de concentración, utilizando una planta piloto. Los 24 especímenes se someten a prueba en un probador de laboratorio, en un orden aleatorio. Los datos del experimento son:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -435,7 +435,7 @@ anova_table
 
 ### Conclusión
 
-De aquí podemos fijarnos en nuestro valor de $P$ dado para $F_{0}$ y podemos concluir que, con una asertividad de 0.000004, $H_0$ es cierta, sin embargo, es casi nula; por lo tanto, decimos que no tenemos pruebas suficientes para aceptarla, por lo tanto, la rechazamos y finalizamos diciendo que el porcentaje de concentración de madera dura en el papel afecta la tensión de este. 
+De aquí podemos fijarnos en nuestro valor de $$P$$ dado para $$F_{0}$$ y podemos concluir que, con una asertividad de 0.000004, $$H_0$$ es cierta, sin embargo, es casi nula; por lo tanto, decimos que no tenemos pruebas suficientes para aceptarla, por lo tanto, la rechazamos y finalizamos diciendo que el porcentaje de concentración de madera dura en el papel afecta la tensión de este. 
 
 ---
 
