@@ -505,3 +505,7 @@ plt.show()
 
 
 Por otro lado, gracias a esta gráfica logramos notar que los datos experimentales son normales con una buena aproximación.
+
+---
+
+El notebook de este post, los puedes encontrar [aquí](https://gist.github.com/marcocarmonaga/17d6b7dee9adb511b74dcedc24451179).
