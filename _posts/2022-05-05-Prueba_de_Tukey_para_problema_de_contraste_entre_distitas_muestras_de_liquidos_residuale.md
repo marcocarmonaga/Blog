@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Prueba de Tukey para problema de contraste entre distitas muestras de liquidos residuales de diferentes plantas."
+title:  "Prueba de Tukey para problema de contraste entre distintas muestras de líquidos residuales de diferentes plantas."
 date:   2022-05-05
 author: Marco A. Carmona
 ---
