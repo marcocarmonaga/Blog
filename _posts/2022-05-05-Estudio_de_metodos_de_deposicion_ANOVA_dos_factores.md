@@ -466,7 +466,7 @@ anova_table.columns = ['Grados de libertad','Suma de cuadrados','Media de cuadra
 
 ### Conclusión
 
-Para brindar una conclusión con respecto a los diversos valores de PR(>F) que se tienen, es importante observar que si consideramos un $\alpha = 0.05$, notamos que tanto el Tipo como el Método son menores a este valor de $\alpha$, caso contrario a lo que sucede con el factor de su interacción.
+Para brindar una conclusión con respecto a los diversos valores de PR(>F) que se tienen, es importante observar que si consideramos un $$\alpha = 0.05$$, notamos que tanto el Tipo como el Método son menores a este valor de $$\alpha$$, caso contrario a lo que sucede con el factor de su interacción.
 
 Con esto podemos decir que su interacción entre el Tipo y el Método no genera efecto alguno sobre la adherencia, sin embargo, ambos factores por separado sí generan diferencia alguna.
 
