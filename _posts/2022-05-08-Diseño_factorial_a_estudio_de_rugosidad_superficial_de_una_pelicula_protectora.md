@@ -309,4 +309,6 @@ plot(model_red)
     
 ![png](/Blog/assets/images/posts/output_22_1.png)
     
+---
 
+El notebook de este post, los puedes encontrar [aquí](https://gist.github.com/marcocarmonaga/36a34bf7174c9431b158e55956a976ef).
