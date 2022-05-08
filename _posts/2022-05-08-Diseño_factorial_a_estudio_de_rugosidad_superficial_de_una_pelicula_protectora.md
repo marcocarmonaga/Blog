@@ -5,14 +5,14 @@ date:   2022-05-08
 author: Marco A. Carmona
 ---
 
-Se hace un estudio de rugosidad superficial de una película protectora para superficies ópticas usadas en cámaras espaciales. El interés recae en $n=3$ factores, (X) rapidez del depósito, (Y) espesor de la película y (Z) ángulo de posicionamiento relativo. A los 3 factores se les asigna dos niveles, y se realizan dos réplicas en un diseño factorial.
+Se hace un estudio de rugosidad superficial de una película protectora para superficies ópticas usadas en cámaras espaciales. El interés recae en $$n=3$$ factores, (X) rapidez del depósito, (Y) espesor de la película y (Z) ángulo de posicionamiento relativo. A los 3 factores se les asigna dos niveles, y se realizan dos réplicas en un diseño factorial.
 
 Los niveles asignados son los siguientes:
 
 |Factor|Nivel Bajo|Nivel Alto|
 |:------:|:----------:|:----------:|
-|Rapidez ($\mu\text{m/min}$)|20|30|
-|Espesor ($\mu\text{m}$)|25|40|
+|Rapidez ($$\mu\text{m/min}$$)|20|30|
+|Espesor ($$\mu\text{m}$$)|25|40|
 |Ángulo|15°|25°|
 
 La rugosidad es medida con un rugosímetro y se expresa en micras
@@ -43,7 +43,7 @@ La rugosidad es medida con un rugosímetro y se expresa en micras
 library(AlgDesign)
 ```
 
-### Generando diseño factorial $2^{k}$ con k = 3 variables
+### Generando diseño factorial $$2^{k}$$ con k = 3 variables
 
 
 ```R
@@ -223,7 +223,7 @@ anova(model)
 
 
 
-De aquí podemos observar que tomando un $\alpha = 0.05$ las interacciones no tienen un gran peso sobre el modelo, y que, por el contrario, el factor rapidez tiene una gran importancia dentro de este; todo esto se puede verificar visualmente observando los gráficos de caja. 
+De aquí podemos observar que tomando un $$\alpha = 0.05$$ las interacciones no tienen un gran peso sobre el modelo, y que, por el contrario, el factor rapidez tiene una gran importancia dentro de este; todo esto se puede verificar visualmente observando los gráficos de caja. 
 
 
 ```R
