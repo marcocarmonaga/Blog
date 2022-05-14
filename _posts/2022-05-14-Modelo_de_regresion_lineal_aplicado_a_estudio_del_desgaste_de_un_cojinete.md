@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Modelo de regresión lineal aplicado al estudio del desgate de un cojineta dada su relación con la viscosidad del aceite y la carga"
+title:  "Modelo de regresión lineal aplicado al estudio del desgaste de un cojinete dada su relación con la viscosidad del aceite y la carga"
 date:   2022-05-14
 author: Marco A. Carmona
 ---
